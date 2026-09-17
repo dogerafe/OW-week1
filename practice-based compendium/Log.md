@@ -7,3 +7,5 @@ I wrote out the sports that I have played and how lomg I played them for.
 I struggled to figure out what I was supposed to do to submit it for a bit.
 I figured out how subfolders worked..
 I figured out how to add a spreadsheet to Github on google.
+Data could be a lot more complex adding actual game stats is an option as thye do exist for hockey.
+Could add gear types for each sport or locations which are also known.
