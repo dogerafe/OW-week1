@@ -33,3 +33,14 @@ Account created..
 This was much simpler
 went much smoother.
 Screenshots are in a file on my computer.
+
+Week 3 at the Billings estate notes.
+
+i didn't know how to use kobotoolbox and got rid of all of the stuff that I put in there so I will now try to replicate it all based on a photo that I took of the grave.
+using the LIDAR gun was interesting but it stopped me from being able to take an actual sketch map so I mostly just doodled on the paper which I will upload to my github the doodles are not very good.
+much less was done than what was planned so I do not have as much to show what I have done as I wished that I had.
+photogrammerty was quite interesting but I dont think I took wnough photos for a full image I will try to make one anyways.
+it would have been cool to use the 3d scanner but I did not get to use it.
+
+
+
