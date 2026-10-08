@@ -38,9 +38,26 @@ Week 3 at the Billings estate notes.
 
 i didn't know how to use kobotoolbox and got rid of all of the stuff that I put in there so I will now try to replicate it all based on a photo that I took of the grave.
 using the LIDAR gun was interesting but it stopped me from being able to take an actual sketch map so I mostly just doodled on the paper which I will upload to my github the doodles are not very good.
+
 much less was done than what was planned so I do not have as much to show what I have done as I wished that I had.
 photogrammerty was quite interesting but I dont think I took wnough photos for a full image I will try to make one anyways.
 it would have been cool to use the 3d scanner but I did not get to use it.
+
+Week 4 GIS Lab
+
+Archaelolgy spatial data Lithgow exercise.
+Google collab is working well nothing has goe wrong so far just following instructions 
+Gotten to a photograph of the placement of the bodies, Changing the word that equals the CMAP changes the color of the bodies on the map
+Just typing Lithgow_Burials is enough to print out all of the data on the coding notebook, very interesting this must be becuase of the basic tools added in the beginning
+Panda helps with the use of spreadsheet data, adding small additions to the code is enough to change how the information is visualized
+With the given data you can insert code to specify what data you represented in a image and also the spreadsheet
+If i become an archaeologist I will avoid using a local grid
+
+
+
+
+
+
 
 
 
