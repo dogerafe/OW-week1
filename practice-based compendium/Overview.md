@@ -35,4 +35,7 @@ using the Lidar scanner and reading the article about digital archaeology ethics
 Is there a world where all digital archaeology tools are owned by one company locked behind an incredibly expensive subscription service?
 Who will be held responsible for ethical concerns when archaeology becomes more and more automated?
 
+Overview Week 4 GIS Lab
+It is very interesting to read about how maps in archaeology can be biased in many different ways and also to learn how people fought against the gaze https://www-taylorfrancis-com.proxy.library.carleton.ca/chapters/edit/10.4324/9781003327578-11/archaeology-crafting-maps-political-change-piraye-hac%C4%B1g%C3%BCzeller. It is also interesting to hear about the initial reactions to digital mapping being seen as something that removes an integral part of the archeological process but also hearing about how digital mapping can help underpriviledged 
+
 
