@@ -46,13 +46,16 @@ it would have been cool to use the 3d scanner but I did not get to use it.
 Week 4 GIS Lab
 
 Archaelolgy spatial data Lithgow exercise.
-Google collab is working well nothing has goe wrong so far just following instructions 
+Google collab is working well nothing has goe wrong so far just following instructions.
 Gotten to a photograph of the placement of the bodies, Changing the word that equals the CMAP changes the color of the bodies on the map
-Just typing Lithgow_Burials is enough to print out all of the data on the coding notebook, very interesting this must be becuase of the basic tools added in the beginning
-Panda helps with the use of spreadsheet data, adding small additions to the code is enough to change how the information is visualized
-With the given data you can insert code to specify what data you represented in a image and also the spreadsheet
-If i become an archaeologist I will avoid using a local grid
+Just typing Lithgow_Burials is enough to print out all of the data on the coding notebook, very interesting this must be becuase of the basic tools added in the beginning.
+Panda helps with the use of spreadsheet data, adding small additions to the code is enough to change how the information is visualized.
+With the given data you can insert code to specify what data you represented in a image and also the spreadsheet.
+If i become an archaeologist I will avoid using a local grid.
 
+For the GIS lab assignment I did not add it to my repository at the end of class but I will try and go back to see if I can retrieve it next week.
+I do remember that there was supposed to be an error in the GIS lab exercise but it actually did not happen for me.
+I did have an error at the end the school blocked the other applications for the GIS software so I was not able to augent my map in a certain way.
 
 
 
