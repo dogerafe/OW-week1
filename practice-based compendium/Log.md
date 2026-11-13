@@ -72,6 +72,29 @@ For the GIS lab assignment I did not add it to my repository at the end of class
 I do remember that there was supposed to be an error in the GIS lab exercise but it actually did not happen for me.
 I did have an error at the end the school blocked the other applications for the GIS software so I was not able to augent my map in a certain way.
 
+Week 7
+
+Collab notebook.
+everything is goin quickly now past the first tree things.
+The CSV file seem to be data about the map, towns and roads coasts and overseas stuff.
+Very interesting network that was put together here with around 7-10 hotspots.
+Error when calculating the degree because name Networkx is not defined.
+I have to change the name but I do not know how to. 
+Changing the name to nx.degree worked I found that after looking it up.
+Orderin the degrees of the cities show that the ones that have the most are ancient greek implying that civilization had a large impact on culture.
+The cities are well connected so they must have been bery important in ancient grece for culture and other things of that nature.
+Also error on betweenness centrality changing the name to nx.betweeness_centrality worked again,
+modularity and communities interesting stuff here.
+
+Network navigator tool
+idk how this works
+I have absoluetly no idea how to do this.
+It is 10pm I will do this later I still need to do the overview
+
+
+
+
+
 
 
 
