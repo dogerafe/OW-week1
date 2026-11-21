@@ -72,6 +72,21 @@ For the GIS lab assignment I did not add it to my repository at the end of class
 I do remember that there was supposed to be an error in the GIS lab exercise but it actually did not happen for me.
 I did have an error at the end the school blocked the other applications for the GIS software so I was not able to augent my map in a certain way.
 
+Week 6
+
+Collab notebook in R this time. 
+Good looking data spread.
+It is interesting to see the difference between python and r code.
+The other data frame that I added was Upper Paleolithic Engraved Bone Design Elements - Spain and I just copy pasted what the website said to to see what it would look like. I will add a photo for this.
+I then used Bronze Age Cups from Italy to create a graph which is added also.
+If the P value is 0.02 then the null hypothesis is rejected.
+I think that there could be an association between age and presence of goods.
+I am enjoying using R I did a chi squared test on the BA cups data that did not reject the null.
+I made a barplot of the grave latitudes that will be added also.
+
+
+
+
 Week 7
 
 Collab notebook.
