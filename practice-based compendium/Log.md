@@ -85,8 +85,6 @@ I am enjoying using R I did a chi squared test on the BA cups data that did not 
 I made a barplot of the grave latitudes that will be added also.
 
 
-
-
 Week 7
 
 Collab notebook.
@@ -105,6 +103,10 @@ Network navigator tool
 idk how this works
 I have absoluetly no idea how to do this.
 It is 10pm I will do this later I still need to do the overview
+
+Week 8
+
+
 
 
 
