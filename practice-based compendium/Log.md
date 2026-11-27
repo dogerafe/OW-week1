@@ -102,9 +102,9 @@ Also error on betweenness centrality changing the name to nx.betweeness_centrali
 modularity and communities interesting stuff here.
 
 Network navigator tool
-idk how this works
-I have absoluetly no idea how to do this.
-It is 10pm I will do this later I still need to do the overview
+idk how this works I did not pay attention in class I was studying for the midterm for my other class that same day.
+I have absolutely zero idea as to how to do this.
+
 
 Week 8
 
