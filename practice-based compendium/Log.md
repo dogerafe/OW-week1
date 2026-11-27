@@ -108,6 +108,12 @@ I have absolutely zero idea as to how to do this.
 
 Week 8
 
+Image Classifier
+While building the image classifier I think I ran into a problem when trying to insert the code which gave me the syntax error of syntaxError: unterminated string literal (detected at line 29), I pasted the code to the wrong part and had to start over again. which fixed it, It ws really interesting too see how it all worked together.
+
+Building language model.
+The first collab book gave e an error same with teh second collab book.
+
 
 
 
