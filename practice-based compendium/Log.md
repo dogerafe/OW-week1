@@ -104,7 +104,7 @@ modularity and communities interesting stuff here.
 Network navigator tool
 idk how this works I did not pay attention in class I was studying for the midterm for my other class that same day.
 I have absolutely zero idea as to how to do this.
-
+I took one set of data from that weeks plan and cut it down to just the names and first dates that were then added into network navigator to get a circle looking shape and that I all that I will be doing for this.
 
 Week 8
 
@@ -112,8 +112,12 @@ Image Classifier
 While building the image classifier I think I ran into a problem when trying to insert the code which gave me the syntax error of syntaxError: unterminated string literal (detected at line 29), I pasted the code to the wrong part and had to start over again. which fixed it, It ws really interesting too see how it all worked together.
 
 Building language model.
-The first collab book gave e an error same with teh second collab book.
-
+This is not ported into colab how do I get it there.
+I have found how to port it into colab, I am going to assume that I do not have to do the rest of the colab notebooks because they were not mentioned in the exercises for this week.
+error found in notebook: AssertionError: Dataset files are too small to sample 1024 tokens at a time.
+I re ran everything and nothing has changed. 
+I re ran this again and I still keep getting the same error.
+This error is related to the amount fo text inside of the text files which is beyond my control so I am not able to complete this notebook
 
 
 
