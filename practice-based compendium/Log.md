@@ -84,6 +84,8 @@ I think that there could be an association between age and presence of goods.
 I am enjoying using R I did a chi squared test on the BA cups data that did not reject the null.
 I made a barplot of the grave latitudes that will be added also.
 
+Harris matrix stuff The first matrix was confusing and i think that I did it wrong but after looking at the second matrix example I understand how the matrix works, the contexts are done in order of what is found when it is excavated, usually first its the object then the fill then the whole itself before the next object is moved on to, the readings for the third exercise taught me that each group is each hole and subgroups are related to speceifc details within the group and phases are all encompassing things that include each group, I will take all o f  this information when doing exercise 3. What I do not understand is how things are labelled and also 
+
 
 Week 7
 
