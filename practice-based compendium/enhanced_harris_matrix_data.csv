@@ -1,0 +1,33 @@
+Context_ID,Context_Type,Description,Earliest_Date_Year,Earliest_Date_Era,Latest_Date_Year,Latest_Date_Era,Date_Type,Phase_ID,Phase_Name,Group_ID,Group_Name,Sub-Group_ID,Sub-Group_Name,Relationship_Type,Related_Context_ID,Temporal_Conflict,Is_Redundant
+"1","layer","top layer",,"CE",,"CE","","phase_1795767003344","Phase 1","","","","","above","3",false,false
+"3","fill","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","",,,false,
+"2","deposit","coin",,"CE",,"CE","coin","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","below","3",false,false
+"4","cut","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","filled_by","2",false,false
+"4","cut","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","filled_by","3",false,true
+"6","fill","brick wall fill",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","below","1",false,false
+"5","structure","Brick wall",,"CE",,"CE","architectural","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","below","6",false,false
+"8","fill","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","below","5",false,false
+"9","layer","",,"CE",,"CE","","phase_1795767119257","Phase 4","","","","","below","8",false,false
+"9","layer","",,"CE",,"CE","","phase_1795767119257","Phase 4","","","","","below","4",false,false
+"10","layer","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","above","11",false,false
+"11","layer","",,"CE",,"CE","","phase_1795767015271","Phase 2","group_1795766702136","Group 1","","","above","9",false,false
+"12","fill","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","9",false,false
+"13","deposit","",,"CE",,"CE","pottery","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","12",false,false
+"14","cut","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","13",false,false
+"15","fill","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","9",false,false
+"16","structure","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","15",false,false
+"17","fill","Packing",,"CE",,"CE","","phase_1795767129810","Phase 5","","","","","below","16",false,false
+"18","structure","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","equivalent","16",false,false
+"19","layer","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","below","14",false,false
+"19","layer","",,"CE",,"CE","","phase_1795767073604","Phase 3","group_1795766815028","Group 2","","","seals","17",false,false
+"20","layer","",,"CE",,"CE","","phase_1795767141419","Phase 6","group_1795766854047","Group 3","","","below","17",false,false
+"21","layer","",,"CE",,"CE","","phase_1795767141419","Phase 6","group_1795766854047","Group 3","","","equivalent","20",false,false
+"21","layer","",,"CE",,"CE","","phase_1795767141419","Phase 6","group_1795766854047","Group 3","","","below","17",false,false
+"22","layer","",,"CE",,"CE","","phase_1795767156411","Phase 7","","","","","below","20",false,false
+"22","layer","",,"CE",,"CE","","phase_1795767156411","Phase 7","","","","","below","21",false,false
+"23","fill","",,"CE",,"CE","","phase_1795767166289","Phase 8","","","","","below","22",false,false
+"24","cut","",,"CE",,"CE","","phase_1795767175236","Phase 9","group_1795766984217","Group 4","","","below","23",false,false
+"26","deposit","",,"CE",,"CE","","phase_1795767175236","Phase 9","group_1795766984217","Group 4","","","equivalent","24",false,false
+"26","deposit","",,"CE",,"CE","","phase_1795767175236","Phase 9","group_1795766984217","Group 4","","","below","23",false,false
+"27","layer","",,"CE",,"CE","","phase_1795767190531","10","","","","","below","24",false,false
+"27","layer","",,"CE",,"CE","","phase_1795767190531","10","","","","","below","26",false,false
